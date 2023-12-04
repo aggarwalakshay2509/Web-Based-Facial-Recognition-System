@@ -24,3 +24,6 @@ The user interface primarily include two options - login and registration, and a
 - Just like registration, user will first enter his/her ID and password.
 - If id and password matches, then the face of the user will be authenticated. If it is successful, the hand gesture that the user used while regostration will be recognized.
 - After successful authentication, a message 'Recognized successfully' will be shown to the user.
+
+# Important modules used
+CSV, Tkinter(for GUI interface), keras, tenserflow, pandas, numpy
